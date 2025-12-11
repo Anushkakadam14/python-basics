@@ -1,3 +1,0 @@
-#print your name 5 time
-for i in range(5):
-    print("Anushka")
